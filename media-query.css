@@ -31,12 +31,12 @@
     }
 }
 
-@media screen and (min-width: 992px) {   /*tela grande*/
+@media screen and (min-width: 950px) {   /*tela grande*/
     body{
         background-image: linear-gradient(to top, #29a09d, #5f2c82);
 
     }
-    
+
     section#login {
         width: 992px;
     }
